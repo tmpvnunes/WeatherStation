@@ -8,8 +8,8 @@ import tkinter.messagebox
 class WeatherStation:
 
     def __init__(self, master):
-        self.email = 'tmpvnunes@gmail.com'
-        self.key = "b197367b82b83243e1aeeb16184d059c"
+        self.email = 'your_email_here'
+        self.key = "your_key_here"
         self.imageDir = "http://openweathermap.org/img/w/"
         self.imageExt = ".png"
         # self.email = email
